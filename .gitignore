@@ -1,5 +1,6 @@
 # Solidstart
-dist
+.output
+.vinxi
 
 # Node dependencies
 node_modules
