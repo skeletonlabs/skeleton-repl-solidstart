@@ -4,6 +4,8 @@
 @import "@skeletonlabs/skeleton/optional/presets";
 @import "@skeletonlabs/skeleton/themes/cerberus";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 body {
   /* OPTIONAL: Background Mesh Gradient */
   /* https://next.skeleton.dev/docs/design/themes#backgrounds */
